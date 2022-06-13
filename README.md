@@ -1,6 +1,6 @@
 # Movies_ETL
 
-# Purpose
+## Purpose
 
 The purpose of this project was to create an automated pipeline that would take new data, performs the appropriate transformations, and loads the data into an existing PostgresSQL database.
 
